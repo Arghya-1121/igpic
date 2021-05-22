@@ -1,0 +1,8 @@
+#For linux
+sudo apt-get install python
+pip3 install instaloader
+
+
+#For Termux
+pkg install python -y
+pip install instaloader
