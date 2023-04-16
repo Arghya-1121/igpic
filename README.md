@@ -12,9 +12,9 @@ This program requires python and instaloader.Install these, then run the command
   Follow Me On
 </p>
 <p align="center">
-  <a href="https://twitter.com/ArghyaS1121">
-	<img src="https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.768.jpg" width="40" height="40">
-    </a>
-	<a href="https://instagram.com/arghya1121">
-		<img src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-png-transparent.png" width="40" height="40">
-</p>
+    <a href="https://twitter.com/ArghyaS1121">
+         <img src="https://en.m.wikipedia.org/wiki/File:Logo_of>
+     </a>
+         <a href="https://instagram.com/annewbieeditor">
+                 <img src="https://en.m.wikipedia.org/wiki/File>
+ </p>
